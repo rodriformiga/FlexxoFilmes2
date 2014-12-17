@@ -1,0 +1,16 @@
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Breaking Bad', 'Walter White Is a Chemist, Cancer Survivor', 2010, 1, 'posters/breakingbad.jpg');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Game of Thrones', 'Five kings. One throne. (season 2)', 2012, 1, 'posters/gameofthrones.jpg');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Sons of Anarchy', 'Let freedom ride', 2010, 0, 'posters/soa.jpg');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Heros', 'Save the Cheerleader. Save the World.', 2007, 0, 'posters/heroes.jpg');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('O Hobbit', 'My precious', 2014, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Senhor dos Aneis 1', 'My precious', 2014, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Senhor dos Aneis 2', 'My precious', 2014, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Senhor dos Aneis 3', 'My precious', 2014, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 1', 'Pedra Filosofal', 2001, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 2', 'Camara Secreta', 2002, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 3', 'Prisioneiro de Azkaban', 2003, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 4', 'Calice de Fogo', 2004, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 5', 'Ordem da Fenix', 2005, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 6', 'Principe Mestiço', 2006, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 7', 'Reliquias da Morte 1', 2007, 0, '');
+INSERT INTO filmes (nome, descricao, ano, lancamento, imagem) VALUES ('Harry Potter 8', 'Reliquias da Morte 2', 2008, 0, '');

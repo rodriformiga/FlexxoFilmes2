@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flexxo Filmes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detalhe">Detalhe Filme</string>
+    <string name="noImage">Sem Imagem</string>
+    <string name="nome">Nome</string>
+    <string name="descr">Descrição</string>
+    <string name="lista">Lista de Filmes</string>
+    <string name="ok">Ok</string>
+    <string name="artista">Artistas</string>
+    <string name="ponto">"Avaliação: "</string>
+    <string name="title_activity_artista">Artistas/Detalhes</string>
+    <string name="loadArtista">Carregando artistas...</string>
+
+</resources>
